@@ -1,0 +1,1998 @@
+[
+  {
+    "date": "2019-09-24T00:00:00",
+    "rooms": [
+      {
+        "id": 8465,
+        "name": "Ibis Hotel Asgardians",
+        "sessions": [
+          {
+            "id": "e186b0e5-cd9c-4f2f-99d0-4c2005e57687",
+            "title": "Welcome",
+            "description": "Welcome to DroidconGR19!",
+            "startsAt": "2019-09-24T09:00:00",
+            "endsAt": "2019-09-24T09:30:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "137116",
+            "title": "Play Core library: Take control of Android App Bundles’ dynamic delivery",
+            "description": "When you use Android App Bundles (AAB), you get an initial size saving through splitting your application by: screen density, language and ABI.\r\nBut that's just the beginning!\r\nWith AAB as your distribution format, you can use the Play Core library to make your app smaller, on-demand and always up-to-date\r\n\r\nIn this talk you will learn about AAB, dynamic delivery and the features that the Play Core library enables in your applications. It will cover:\r\n* Why and how to start using AAB and dynamic delivery\r\nWhat is the Play Core library and how it interacts with dynamic delivery\r\n* On-demand delivery of additional modules and language resources\r\n* In app updates, covering blocking and non-blocking flows with some bonus  UX considerations\r\n\r\nWe’ll finish by looking at how you can use the new Internal App Sharing to distribute your test builds.\r\n",
+            "startsAt": "2019-09-24T09:30:00",
+            "endsAt": "2019-09-24T10:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "e5941ea5-5a10-45a0-903b-f642db802a16",
+                "name": "Pietro Maggi"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "131437",
+            "title": "The Hitchhikers Guide Through Kotlin Multiplatform",
+            "description": "Since the early days of mobile that we keep seeing new frameworks being designed to overcome one of the biggest challenges:\r\n* How can I develop for both Android and iOS?\r\n\r\nAlthough it’s initial promises, when we talk about performance, maintainability or even customization we keep discarding these solutions and we always choose native.\r\n\r\n\r\nFast forward to the present, and now we have two new languages: Android is Kotlin first and iOS, Swift. And if you put them side by side you can see a lot of similarities between both what will ease switching between one to the other if you have to develop for both platforms.\r\n\r\nBut what I told that you could just develop in Kotlin and run it seamlessly on all devices?\r\n\r\nHere comes Kotlin Multiplatform!",
+            "startsAt": "2019-09-24T10:30:00",
+            "endsAt": "2019-09-24T11:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "2bc1e95f-1243-4ad0-8a11-75541fee10e0",
+                "name": "Carlos Mota"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "e72d2ef9-4cc6-4d3a-a1d3-8cb21978b64b",
+            "title": "Coffee Break",
+            "description": "Enjoy a small break and some networking",
+            "startsAt": "2019-09-24T11:30:00",
+            "endsAt": "2019-09-24T12:15:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "128760",
+            "title": "Zero knowledge proof",
+            "description": "Are you willing to share your biometric identification with someone else? Thanks to Zero Knowledge Proof(ZKP) you don’t have to. With ZKP you can convince about your identity without sharing it.",
+            "startsAt": "2019-09-24T12:15:00",
+            "endsAt": "2019-09-24T13:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "5cd0e5d5-bb2e-42a0-aeb0-36c1c69ecba6",
+                "name": "Bakhtar Sobat"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "136393",
+            "title": "Let me write your networking code",
+            "description": "When writing networking code, you want to make sure the code between the client and server implementation is consistent. After spending hours defining the APIs with your backend engineers, you’ll probably need to spend even more time implementing those details over to your code (and guess what… your backend engineers will be doing the same!). This process is boring, time consuming, and prone to errors.\r\n\r\nWouldn’t it be cool if this process were automated? If you could have classes and interfaces that mirror your API definition? And if they were automatically tested and ready to use out of the box?\r\n\r\nIt can be done! At Yelp, we define our APIs using Swagger Specs and we successfully automated the generation of our networking code for both servers and clients (iOS & Android). On Android, we generate Kotlin Data Classes and Retrofit APIs that mirror our spec files and are ready to use for all engineers. In this talk, we will explore how we set up our code generation pipeline and how you can start doing it, too.",
+            "startsAt": "2019-09-24T13:15:00",
+            "endsAt": "2019-09-24T14:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "8730d40b-3fb7-450d-ab71-08c9dd81a48a",
+                "name": "Nicola Corti"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "02110370-e378-4bf9-8971-22345e431f41",
+            "title": "Lunch",
+            "description": null,
+            "startsAt": "2019-09-24T14:15:00",
+            "endsAt": "2019-09-24T15:15:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "133971",
+            "title": "Creating Custom models with AutoML and MLKit",
+            "description": "AutoML has been is product that has been helping many people create custom machine learning models without having any code experience. However it was always hard to use these models in mobile apps. At Google I/O 19 the firebase team announced support for AutoML in firebase, making it easier for mobile developers to access these custom models in their apps. This talk will cover what AutoML is and how we can use these custom machine learning model in our android app through firebase.",
+            "startsAt": "2019-09-24T15:15:00",
+            "endsAt": "2019-09-24T16:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "c8e7125f-3c0b-4db2-8a5d-f952108c3268",
+                "name": "Peter John Welcome"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "136321",
+            "title": "Flutter or React Native, a cross-platform dilemma",
+            "description": "Nowadays the hype around Flutter is raising a lot. But what about the \"(not so) old-fashioned\" React Native? \r\nIn this talk, we will see the basics and the differences between the two frameworks. In particular, we will understand how to build User Interfaces and how the internals of the two framework works. Finally, we will try to understand when and why to choose a cross-platform framework and which of the two. \r\nAll this journey is based on the true story of an Android Developer that he wanted to explore the cross-platform jungle both for work and fun reasons.",
+            "startsAt": "2019-09-24T16:15:00",
+            "endsAt": "2019-09-24T17:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "aeddc24f-0e47-4934-ad76-2de7a9dc9fac",
+                "name": "Marco Gomiero"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "137340",
+            "title": "Good rules for Bad apps",
+            "description": "Building a decent app is easy this day, there are plenty of tutorials, videos and blog post about it. In this session, I’ll try to go over some of the top mistakes that every one of us is doing while building his app. This will cover all the aspects of building a bad app- technical, UI & UX, and product. So each one of you will be able to adapt his favorite bad pattern and ruin his app. ",
+            "startsAt": "2019-09-24T17:15:00",
+            "endsAt": "2019-09-24T18:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "a9085ce9-7c64-4152-9851-4925b1572032",
+                "name": "Shem Magnezi"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "0a02b19b-fcbf-4089-b82a-c7ee5a419597",
+            "title": "Coffee Break",
+            "description": "Enjoy a small break and some networking",
+            "startsAt": "2019-09-24T18:15:00",
+            "endsAt": "2019-09-24T19:00:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "133569",
+            "title": "Structured unit testing with Spek",
+            "description": "Are you tired of decrypting the JUnit test that you wrote a few weeks back? \r\nDo you want to write nice, readable & structured tests that are actually fun to write and joy to read?\r\n\r\nIf you have answered yes to at least one of the questions above, I have a solution for you. Join this talk and fall again in love with unit testing.\r\n\r\nWe will cover:\r\n- Describe how Spek works\r\n- Comparison with JUnit \r\n- Sample tests for a project following a clean architecture pattern (data, domain & view layer)",
+            "startsAt": "2019-09-24T19:00:00",
+            "endsAt": "2019-09-24T20:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "fbc78fae-5d8a-4758-9cf1-dd497029ff32",
+                "name": "Martin Petrulak"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "136125",
+            "title": "Why React Native Teams Need Android Developers",
+            "description": "React Native is an awesome cross-platform solution with which you can just write once (in Javascript) and run anywhere, or… is it?\r\n\r\nIn this talk, I’m gonna show you some real-life examples of why React Native projects still need from Android experts if they want to create really amazing apps and I’ll share with you some of the things I’ve learnt working as an Android developer in the React Native infrastructure team at Skyscanner.",
+            "startsAt": "2019-09-24T20:00:00",
+            "endsAt": "2019-09-24T21:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "05d60cec-c04c-4182-a5cb-e6ae33850081",
+                "name": "Leandro Mazzuquini"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 8466,
+        "name": "H2B Hub Eternals",
+        "sessions": [
+          {
+            "id": "d7cb7991-7ddd-41b3-871f-882bc88304fa",
+            "title": "Welcome @ Ibis Hotel",
+            "description": null,
+            "startsAt": "2019-09-24T09:00:00",
+            "endsAt": "2019-09-24T09:30:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "134397",
+            "title": "100% direct access to all Android APIs with NativeScript",
+            "description": "Are you a web developer who always wanted to write an app for both iOS and Android, but want to write it only once? Do you want a true, performant, native app, but don’t want to learn yet another language, yet another framework and get used to yet another IDE? With NativeScript, this is easier than you might think! NativeScript is an open source framework that lets you build truly native apps from one code base using Angular, Vue.js, TypeScript or JavaScript. You will get 100% access to all native APIs directly from your JavaScript or TypeScript code. In the workshop we will build a robust Video On Demand (VOD) app and a Music Streaming App with NativeScript and Android. And Peter Eijgermans show you NativeScript's strongest capabilities to  access Android APIs inside JavaScript/TypeScript.",
+            "startsAt": "2019-09-24T09:30:00",
+            "endsAt": "2019-09-24T10:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "53acedba-ece6-4076-9795-4777f142d59c",
+                "name": "Peter Eijgermans"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "136000",
+            "title": "Screenshot Testing for Android",
+            "description": "Screenshot Testing  is a fast, simple, and fun way to develop UI while keeping your sanity and avoid visual regression bugs. In this talk Nikos and Christoforos will explain what is Screenshot Testing and how it protects and speeds up UI development. They'll point out some common gotchas while paving the road to the \"perfect pull-request\".",
+            "startsAt": "2019-09-24T10:30:00",
+            "endsAt": "2019-09-24T11:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "56ba80c1-67b3-40e5-bdfb-1c6d417bfbab",
+                "name": "Nikos Linakis"
+              },
+              {
+                "id": "add9c317-2c81-4d75-928b-94c6c65c7ac2",
+                "name": "Christoforos Filippou"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "128920",
+            "title": "Working With Dagger and Kotlin",
+            "description": "Dagger has become one of the most widely used libraries in Android development, and is often one of the first to be thought of when bootstrapping a new project, but there are still many nuances and caveats that often get overlooked!\r\n\r\nMany questions arose after the adoption of Kotlin, on how to continue following best practices from Java, so whether you’re using dagger-android or vanilla Dagger, I’ll go through some tips and tricks to make sure you’re using Dagger to it’s best capacity.",
+            "startsAt": "2019-09-24T11:00:00",
+            "endsAt": "2019-09-24T11:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "10659767-356c-4cd5-ba9c-12cec7a3ce79",
+                "name": "Ash Davies"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "f303982a-a729-4de8-a7cf-3d3b290f4fa1",
+            "title": "Coffee Break @ Ibis Hotel",
+            "description": null,
+            "startsAt": "2019-09-24T11:30:00",
+            "endsAt": "2019-09-24T12:15:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "138144",
+            "title": "Interacting with the Blockchain via Android",
+            "description": "Blockchain is disrupting software industry. The term itself has become a popular topic. Everyone is talking about blockchain and its usages in decentralized applications. How can we be part of it? In this talk, i am going to explain to you roughly about dApps, Blockchains, and how can we interact our Mobile Android App with the Ethereum Network.",
+            "startsAt": "2019-09-24T12:15:00",
+            "endsAt": "2019-09-24T13:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "6dc0399e-157a-4e2f-8d48-82ed591abaa2",
+                "name": "Cristian Serje"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "138488",
+            "title": "Building asynchronous mechanisms in Android applications, using Kotlin Coroutines",
+            "description": "In this talk we'll see how, using a large deal of the Kotlin Coroutines API, we can build asynchronous mechanisms in Android applications, which are testable, scalable and clean. \r\n\r\nWe'll touch upon the topic of dispatching, thread switching and synchronization mechanisms, building operators using coroutines, and creating our own API which abstracts away the threading, contexts and dispatching logic of coroutines.",
+            "startsAt": "2019-09-24T13:15:00",
+            "endsAt": "2019-09-24T14:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "c88da7b5-3d9b-4157-a34a-9fc8de74de00",
+                "name": "Filip Babić"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "8a961ffd-64e4-4ef5-8cf3-6d4f06758730",
+            "title": "Lunch @ Ibis Hotel",
+            "description": null,
+            "startsAt": "2019-09-24T14:15:00",
+            "endsAt": "2019-09-24T15:15:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "128936",
+            "title": "Using Navigation component in a large multi-module app",
+            "description": "Jetpack’s Navigation component solves many long-running pains of every Android developer. We were early adopters of it at Air Bank Germany. Our large codebase is packed with the current best practices including multiple modules. Come to learn more about our architecture with focus on navigation. Dark corners, hidden gotchas and practical examples incoming.",
+            "startsAt": "2019-09-24T15:15:00",
+            "endsAt": "2019-09-24T16:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "e3d804a7-ac71-4149-bafe-8bf043ba03c8",
+                "name": "David Vávra"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "130976",
+            "title": "Game Development with Unity from an Android Point of View",
+            "description": "Developing mobile games with Unity has become more and more popular these years, and Unity developers often need to tackle OS specific challenges.\r\n\r\nThrough this talk you will discover how to work with Unity as an Android Developer. You will see how to build Unity plugins using the JNI and Java/Kotlin, which is the most efficient way to link Unity with the Android framework.\r\n\r\nEvery Unity project can be exported as an Android Studio project with a Gradle support. You'll also see how you can integrate Unity inside a native Android Java/Kotlin application, or how to get a full control of the build process so you can benefit from the best of both worlds. ",
+            "startsAt": "2019-09-24T16:15:00",
+            "endsAt": "2019-09-24T17:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "462e6b97-01f9-44b1-864c-9d85bedf911b",
+                "name": "Julien Salvi"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "131516",
+            "title": "Transforming a Java Desktop Application to Kotlin Multiplatform",
+            "description": "Kotlin Multiplatform is a language feature that allows compiling Kotlin code for Java, JavaScript, iOS, and even Native targets. While there are plenty of resources on how to use this feature, this session takes a look at converting a real-world Java Swing Application to Kotlin Multiplatform and when it actually makes sense to use it.\r\n\r\nStarting from with the basics of Kotlin Multiplatform, you will get to see its\r\nbeauty and simplicity. After that, you will learn about gotchas, caveats and\r\nlessons learnt from converting and refactoring a Java Desktop Application to Kotlin and running it on multiple target platforms. In this talk, we will take a look at running our refactored code in the browser.\r\n\r\nYou'll leave this talk with a solid grasp of what's possible with Kotlin\r\nMultiplatform, where it makes sense to use it and where it maybe doesn't.",
+            "startsAt": "2019-09-24T17:15:00",
+            "endsAt": "2019-09-24T18:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "c03a7211-54ff-4819-9789-1a22ed91fafc",
+                "name": "Jossi Wolf"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "c9fd5a46-1a96-4e51-bc95-a1f15dd69a6e",
+            "title": "Coffee Break @ Ibis Hotel",
+            "description": null,
+            "startsAt": "2019-09-24T18:15:00",
+            "endsAt": "2019-09-24T19:00:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "137304",
+            "title": "Bye bye RxJava: Building flexible SDKs with Kotlin and Coroutines",
+            "description": "We've made some mistakes building our client-facing SDKs over the last two years at Babylon Health.\r\n\r\nRxJava has been around in Android development for years, and we've learned a great deal about it. It's a powerful tool, but with great power comes great responsibility. And really - you should always use the right tool for the job, not the most \"powerful\" one. Now we have a new tool in our toolbox - Coroutines - and they seem better suited to a typical Android business layer. It doesn't mean RxJava should be entirely out of the window, as for us it's still quite useful on the UI layer.\r\n\r\nWe're here to share why and how we went from a heavily RxJava based SDK architecture to a more client and developer-friendly approach replacing most of our code with Kotlin & Coroutines and compare both solutions.\r\n\r\nWe will admit to mistakes, share the principles that guided us in our planning for fixing them and show you how we came up with a plan and executed it.",
+            "startsAt": "2019-09-24T19:00:00",
+            "endsAt": "2019-09-24T20:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "4ecc4ff8-c63c-4b9e-927a-7c4094f5b8ea",
+                "name": "Mikołaj Leszczyński"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          },
+          {
+            "id": "138765",
+            "title": "Cut your APK size with features on demand",
+            "description": "Do APK or app size matters?\r\nDoes a user think about the APK size before downloading it?\r\nDoes a user think about space, an app occupying on the phone?\r\nIs your App size is more than just a few MBs?\r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not?\r\n\r\nYes, The user thinks about the app size before downloading or updating an app which has a size larger than a few MBs. The user thinks about the data also over which he will be downloading or updating that app. He or she even think about how much space will it take on his or her device. In this fight of space in the device and size of the app, the apps having a smaller size and frequent utility wins the battle. \r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not. What if he or she can download only the features he needs on demand and keep the app compact. \r\n\r\nGoogle new feature of dynamic delivery enables us to deliver the features on demand. This helps us to reduce the size of APK and even enables the user to choose what features he needs. From a developers perspective, this is very easy to implement and maintain.\r\n\r\nEven we (Sharechat) were also at the same state where the size of APK was an issue with the new set of features we were trying to implement. Google Dynamic delivery came to the rescue.\r\n\r\nWhat is actually a dynamic delivery?\r\nHow can we reduce the APK size with it?\r\nHow it can help a user?\r\nHow to implement it in Android?\r\nHow difficult is it to implement in the existing code base?\r\nHow will it look to the user in the app?\r\n\r\nWell, let's get all these questions answered in the talk along with our experiences and challenges we faced.",
+            "startsAt": "2019-09-24T20:00:00",
+            "endsAt": "2019-09-24T21:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "e3617ae8-580d-483d-9830-01a1ced6ecf2",
+                "name": "Suneet Agrawal"
+              }
+            ],
+            "categories": [],
+            "roomId": 8466,
+            "room": "H2B Hub Eternals"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      }
+    ],
+    "timeSlots": [
+      {
+        "slotStart": "09:00:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "e186b0e5-cd9c-4f2f-99d0-4c2005e57687",
+              "title": "Welcome",
+              "description": "Welcome to DroidconGR19!",
+              "startsAt": "2019-09-24T09:00:00",
+              "endsAt": "2019-09-24T09:30:00",
+              "isServiceSession": true,
+              "isPlenumSession": true,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "d7cb7991-7ddd-41b3-871f-882bc88304fa",
+              "title": "Welcome @ Ibis Hotel",
+              "description": null,
+              "startsAt": "2019-09-24T09:00:00",
+              "endsAt": "2019-09-24T09:30:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "09:30:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "137116",
+              "title": "Play Core library: Take control of Android App Bundles’ dynamic delivery",
+              "description": "When you use Android App Bundles (AAB), you get an initial size saving through splitting your application by: screen density, language and ABI.\r\nBut that's just the beginning!\r\nWith AAB as your distribution format, you can use the Play Core library to make your app smaller, on-demand and always up-to-date\r\n\r\nIn this talk you will learn about AAB, dynamic delivery and the features that the Play Core library enables in your applications. It will cover:\r\n* Why and how to start using AAB and dynamic delivery\r\nWhat is the Play Core library and how it interacts with dynamic delivery\r\n* On-demand delivery of additional modules and language resources\r\n* In app updates, covering blocking and non-blocking flows with some bonus  UX considerations\r\n\r\nWe’ll finish by looking at how you can use the new Internal App Sharing to distribute your test builds.\r\n",
+              "startsAt": "2019-09-24T09:30:00",
+              "endsAt": "2019-09-24T10:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "e5941ea5-5a10-45a0-903b-f642db802a16",
+                  "name": "Pietro Maggi"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "134397",
+              "title": "100% direct access to all Android APIs with NativeScript",
+              "description": "Are you a web developer who always wanted to write an app for both iOS and Android, but want to write it only once? Do you want a true, performant, native app, but don’t want to learn yet another language, yet another framework and get used to yet another IDE? With NativeScript, this is easier than you might think! NativeScript is an open source framework that lets you build truly native apps from one code base using Angular, Vue.js, TypeScript or JavaScript. You will get 100% access to all native APIs directly from your JavaScript or TypeScript code. In the workshop we will build a robust Video On Demand (VOD) app and a Music Streaming App with NativeScript and Android. And Peter Eijgermans show you NativeScript's strongest capabilities to  access Android APIs inside JavaScript/TypeScript.",
+              "startsAt": "2019-09-24T09:30:00",
+              "endsAt": "2019-09-24T10:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "53acedba-ece6-4076-9795-4777f142d59c",
+                  "name": "Peter Eijgermans"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "10:30:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "131437",
+              "title": "The Hitchhikers Guide Through Kotlin Multiplatform",
+              "description": "Since the early days of mobile that we keep seeing new frameworks being designed to overcome one of the biggest challenges:\r\n* How can I develop for both Android and iOS?\r\n\r\nAlthough it’s initial promises, when we talk about performance, maintainability or even customization we keep discarding these solutions and we always choose native.\r\n\r\n\r\nFast forward to the present, and now we have two new languages: Android is Kotlin first and iOS, Swift. And if you put them side by side you can see a lot of similarities between both what will ease switching between one to the other if you have to develop for both platforms.\r\n\r\nBut what I told that you could just develop in Kotlin and run it seamlessly on all devices?\r\n\r\nHere comes Kotlin Multiplatform!",
+              "startsAt": "2019-09-24T10:30:00",
+              "endsAt": "2019-09-24T11:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "2bc1e95f-1243-4ad0-8a11-75541fee10e0",
+                  "name": "Carlos Mota"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "136000",
+              "title": "Screenshot Testing for Android",
+              "description": "Screenshot Testing  is a fast, simple, and fun way to develop UI while keeping your sanity and avoid visual regression bugs. In this talk Nikos and Christoforos will explain what is Screenshot Testing and how it protects and speeds up UI development. They'll point out some common gotchas while paving the road to the \"perfect pull-request\".",
+              "startsAt": "2019-09-24T10:30:00",
+              "endsAt": "2019-09-24T11:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "56ba80c1-67b3-40e5-bdfb-1c6d417bfbab",
+                  "name": "Nikos Linakis"
+                },
+                {
+                  "id": "add9c317-2c81-4d75-928b-94c6c65c7ac2",
+                  "name": "Christoforos Filippou"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "11:00:00",
+        "rooms": [
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "128920",
+              "title": "Working With Dagger and Kotlin",
+              "description": "Dagger has become one of the most widely used libraries in Android development, and is often one of the first to be thought of when bootstrapping a new project, but there are still many nuances and caveats that often get overlooked!\r\n\r\nMany questions arose after the adoption of Kotlin, on how to continue following best practices from Java, so whether you’re using dagger-android or vanilla Dagger, I’ll go through some tips and tricks to make sure you’re using Dagger to it’s best capacity.",
+              "startsAt": "2019-09-24T11:00:00",
+              "endsAt": "2019-09-24T11:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "10659767-356c-4cd5-ba9c-12cec7a3ce79",
+                  "name": "Ash Davies"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "11:30:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "e72d2ef9-4cc6-4d3a-a1d3-8cb21978b64b",
+              "title": "Coffee Break",
+              "description": "Enjoy a small break and some networking",
+              "startsAt": "2019-09-24T11:30:00",
+              "endsAt": "2019-09-24T12:15:00",
+              "isServiceSession": true,
+              "isPlenumSession": true,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "f303982a-a729-4de8-a7cf-3d3b290f4fa1",
+              "title": "Coffee Break @ Ibis Hotel",
+              "description": null,
+              "startsAt": "2019-09-24T11:30:00",
+              "endsAt": "2019-09-24T12:15:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "12:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "128760",
+              "title": "Zero knowledge proof",
+              "description": "Are you willing to share your biometric identification with someone else? Thanks to Zero Knowledge Proof(ZKP) you don’t have to. With ZKP you can convince about your identity without sharing it.",
+              "startsAt": "2019-09-24T12:15:00",
+              "endsAt": "2019-09-24T13:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "5cd0e5d5-bb2e-42a0-aeb0-36c1c69ecba6",
+                  "name": "Bakhtar Sobat"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "138144",
+              "title": "Interacting with the Blockchain via Android",
+              "description": "Blockchain is disrupting software industry. The term itself has become a popular topic. Everyone is talking about blockchain and its usages in decentralized applications. How can we be part of it? In this talk, i am going to explain to you roughly about dApps, Blockchains, and how can we interact our Mobile Android App with the Ethereum Network.",
+              "startsAt": "2019-09-24T12:15:00",
+              "endsAt": "2019-09-24T13:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "6dc0399e-157a-4e2f-8d48-82ed591abaa2",
+                  "name": "Cristian Serje"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "13:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "136393",
+              "title": "Let me write your networking code",
+              "description": "When writing networking code, you want to make sure the code between the client and server implementation is consistent. After spending hours defining the APIs with your backend engineers, you’ll probably need to spend even more time implementing those details over to your code (and guess what… your backend engineers will be doing the same!). This process is boring, time consuming, and prone to errors.\r\n\r\nWouldn’t it be cool if this process were automated? If you could have classes and interfaces that mirror your API definition? And if they were automatically tested and ready to use out of the box?\r\n\r\nIt can be done! At Yelp, we define our APIs using Swagger Specs and we successfully automated the generation of our networking code for both servers and clients (iOS & Android). On Android, we generate Kotlin Data Classes and Retrofit APIs that mirror our spec files and are ready to use for all engineers. In this talk, we will explore how we set up our code generation pipeline and how you can start doing it, too.",
+              "startsAt": "2019-09-24T13:15:00",
+              "endsAt": "2019-09-24T14:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "8730d40b-3fb7-450d-ab71-08c9dd81a48a",
+                  "name": "Nicola Corti"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "138488",
+              "title": "Building asynchronous mechanisms in Android applications, using Kotlin Coroutines",
+              "description": "In this talk we'll see how, using a large deal of the Kotlin Coroutines API, we can build asynchronous mechanisms in Android applications, which are testable, scalable and clean. \r\n\r\nWe'll touch upon the topic of dispatching, thread switching and synchronization mechanisms, building operators using coroutines, and creating our own API which abstracts away the threading, contexts and dispatching logic of coroutines.",
+              "startsAt": "2019-09-24T13:15:00",
+              "endsAt": "2019-09-24T14:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "c88da7b5-3d9b-4157-a34a-9fc8de74de00",
+                  "name": "Filip Babić"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "14:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "02110370-e378-4bf9-8971-22345e431f41",
+              "title": "Lunch",
+              "description": null,
+              "startsAt": "2019-09-24T14:15:00",
+              "endsAt": "2019-09-24T15:15:00",
+              "isServiceSession": true,
+              "isPlenumSession": true,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "8a961ffd-64e4-4ef5-8cf3-6d4f06758730",
+              "title": "Lunch @ Ibis Hotel",
+              "description": null,
+              "startsAt": "2019-09-24T14:15:00",
+              "endsAt": "2019-09-24T15:15:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "15:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "133971",
+              "title": "Creating Custom models with AutoML and MLKit",
+              "description": "AutoML has been is product that has been helping many people create custom machine learning models without having any code experience. However it was always hard to use these models in mobile apps. At Google I/O 19 the firebase team announced support for AutoML in firebase, making it easier for mobile developers to access these custom models in their apps. This talk will cover what AutoML is and how we can use these custom machine learning model in our android app through firebase.",
+              "startsAt": "2019-09-24T15:15:00",
+              "endsAt": "2019-09-24T16:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "c8e7125f-3c0b-4db2-8a5d-f952108c3268",
+                  "name": "Peter John Welcome"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "128936",
+              "title": "Using Navigation component in a large multi-module app",
+              "description": "Jetpack’s Navigation component solves many long-running pains of every Android developer. We were early adopters of it at Air Bank Germany. Our large codebase is packed with the current best practices including multiple modules. Come to learn more about our architecture with focus on navigation. Dark corners, hidden gotchas and practical examples incoming.",
+              "startsAt": "2019-09-24T15:15:00",
+              "endsAt": "2019-09-24T16:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "e3d804a7-ac71-4149-bafe-8bf043ba03c8",
+                  "name": "David Vávra"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "16:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "136321",
+              "title": "Flutter or React Native, a cross-platform dilemma",
+              "description": "Nowadays the hype around Flutter is raising a lot. But what about the \"(not so) old-fashioned\" React Native? \r\nIn this talk, we will see the basics and the differences between the two frameworks. In particular, we will understand how to build User Interfaces and how the internals of the two framework works. Finally, we will try to understand when and why to choose a cross-platform framework and which of the two. \r\nAll this journey is based on the true story of an Android Developer that he wanted to explore the cross-platform jungle both for work and fun reasons.",
+              "startsAt": "2019-09-24T16:15:00",
+              "endsAt": "2019-09-24T17:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "aeddc24f-0e47-4934-ad76-2de7a9dc9fac",
+                  "name": "Marco Gomiero"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "130976",
+              "title": "Game Development with Unity from an Android Point of View",
+              "description": "Developing mobile games with Unity has become more and more popular these years, and Unity developers often need to tackle OS specific challenges.\r\n\r\nThrough this talk you will discover how to work with Unity as an Android Developer. You will see how to build Unity plugins using the JNI and Java/Kotlin, which is the most efficient way to link Unity with the Android framework.\r\n\r\nEvery Unity project can be exported as an Android Studio project with a Gradle support. You'll also see how you can integrate Unity inside a native Android Java/Kotlin application, or how to get a full control of the build process so you can benefit from the best of both worlds. ",
+              "startsAt": "2019-09-24T16:15:00",
+              "endsAt": "2019-09-24T17:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "462e6b97-01f9-44b1-864c-9d85bedf911b",
+                  "name": "Julien Salvi"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "17:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "137340",
+              "title": "Good rules for Bad apps",
+              "description": "Building a decent app is easy this day, there are plenty of tutorials, videos and blog post about it. In this session, I’ll try to go over some of the top mistakes that every one of us is doing while building his app. This will cover all the aspects of building a bad app- technical, UI & UX, and product. So each one of you will be able to adapt his favorite bad pattern and ruin his app. ",
+              "startsAt": "2019-09-24T17:15:00",
+              "endsAt": "2019-09-24T18:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "a9085ce9-7c64-4152-9851-4925b1572032",
+                  "name": "Shem Magnezi"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "131516",
+              "title": "Transforming a Java Desktop Application to Kotlin Multiplatform",
+              "description": "Kotlin Multiplatform is a language feature that allows compiling Kotlin code for Java, JavaScript, iOS, and even Native targets. While there are plenty of resources on how to use this feature, this session takes a look at converting a real-world Java Swing Application to Kotlin Multiplatform and when it actually makes sense to use it.\r\n\r\nStarting from with the basics of Kotlin Multiplatform, you will get to see its\r\nbeauty and simplicity. After that, you will learn about gotchas, caveats and\r\nlessons learnt from converting and refactoring a Java Desktop Application to Kotlin and running it on multiple target platforms. In this talk, we will take a look at running our refactored code in the browser.\r\n\r\nYou'll leave this talk with a solid grasp of what's possible with Kotlin\r\nMultiplatform, where it makes sense to use it and where it maybe doesn't.",
+              "startsAt": "2019-09-24T17:15:00",
+              "endsAt": "2019-09-24T18:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "c03a7211-54ff-4819-9789-1a22ed91fafc",
+                  "name": "Jossi Wolf"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "18:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "0a02b19b-fcbf-4089-b82a-c7ee5a419597",
+              "title": "Coffee Break",
+              "description": "Enjoy a small break and some networking",
+              "startsAt": "2019-09-24T18:15:00",
+              "endsAt": "2019-09-24T19:00:00",
+              "isServiceSession": true,
+              "isPlenumSession": true,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "c9fd5a46-1a96-4e51-bc95-a1f15dd69a6e",
+              "title": "Coffee Break @ Ibis Hotel",
+              "description": null,
+              "startsAt": "2019-09-24T18:15:00",
+              "endsAt": "2019-09-24T19:00:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "19:00:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "133569",
+              "title": "Structured unit testing with Spek",
+              "description": "Are you tired of decrypting the JUnit test that you wrote a few weeks back? \r\nDo you want to write nice, readable & structured tests that are actually fun to write and joy to read?\r\n\r\nIf you have answered yes to at least one of the questions above, I have a solution for you. Join this talk and fall again in love with unit testing.\r\n\r\nWe will cover:\r\n- Describe how Spek works\r\n- Comparison with JUnit \r\n- Sample tests for a project following a clean architecture pattern (data, domain & view layer)",
+              "startsAt": "2019-09-24T19:00:00",
+              "endsAt": "2019-09-24T20:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "fbc78fae-5d8a-4758-9cf1-dd497029ff32",
+                  "name": "Martin Petrulak"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "137304",
+              "title": "Bye bye RxJava: Building flexible SDKs with Kotlin and Coroutines",
+              "description": "We've made some mistakes building our client-facing SDKs over the last two years at Babylon Health.\r\n\r\nRxJava has been around in Android development for years, and we've learned a great deal about it. It's a powerful tool, but with great power comes great responsibility. And really - you should always use the right tool for the job, not the most \"powerful\" one. Now we have a new tool in our toolbox - Coroutines - and they seem better suited to a typical Android business layer. It doesn't mean RxJava should be entirely out of the window, as for us it's still quite useful on the UI layer.\r\n\r\nWe're here to share why and how we went from a heavily RxJava based SDK architecture to a more client and developer-friendly approach replacing most of our code with Kotlin & Coroutines and compare both solutions.\r\n\r\nWe will admit to mistakes, share the principles that guided us in our planning for fixing them and show you how we came up with a plan and executed it.",
+              "startsAt": "2019-09-24T19:00:00",
+              "endsAt": "2019-09-24T20:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "4ecc4ff8-c63c-4b9e-927a-7c4094f5b8ea",
+                  "name": "Mikołaj Leszczyński"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "20:00:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "136125",
+              "title": "Why React Native Teams Need Android Developers",
+              "description": "React Native is an awesome cross-platform solution with which you can just write once (in Javascript) and run anywhere, or… is it?\r\n\r\nIn this talk, I’m gonna show you some real-life examples of why React Native projects still need from Android experts if they want to create really amazing apps and I’ll share with you some of the things I’ve learnt working as an Android developer in the React Native infrastructure team at Skyscanner.",
+              "startsAt": "2019-09-24T20:00:00",
+              "endsAt": "2019-09-24T21:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "05d60cec-c04c-4182-a5cb-e6ae33850081",
+                  "name": "Leandro Mazzuquini"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8466,
+            "name": "H2B Hub Eternals",
+            "session": {
+              "id": "138765",
+              "title": "Cut your APK size with features on demand",
+              "description": "Do APK or app size matters?\r\nDoes a user think about the APK size before downloading it?\r\nDoes a user think about space, an app occupying on the phone?\r\nIs your App size is more than just a few MBs?\r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not?\r\n\r\nYes, The user thinks about the app size before downloading or updating an app which has a size larger than a few MBs. The user thinks about the data also over which he will be downloading or updating that app. He or she even think about how much space will it take on his or her device. In this fight of space in the device and size of the app, the apps having a smaller size and frequent utility wins the battle. \r\n\r\nWhat if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not. What if he or she can download only the features he needs on demand and keep the app compact. \r\n\r\nGoogle new feature of dynamic delivery enables us to deliver the features on demand. This helps us to reduce the size of APK and even enables the user to choose what features he needs. From a developers perspective, this is very easy to implement and maintain.\r\n\r\nEven we (Sharechat) were also at the same state where the size of APK was an issue with the new set of features we were trying to implement. Google Dynamic delivery came to the rescue.\r\n\r\nWhat is actually a dynamic delivery?\r\nHow can we reduce the APK size with it?\r\nHow it can help a user?\r\nHow to implement it in Android?\r\nHow difficult is it to implement in the existing code base?\r\nHow will it look to the user in the app?\r\n\r\nWell, let's get all these questions answered in the talk along with our experiences and challenges we faced.",
+              "startsAt": "2019-09-24T20:00:00",
+              "endsAt": "2019-09-24T21:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "e3617ae8-580d-483d-9830-01a1ced6ecf2",
+                  "name": "Suneet Agrawal"
+                }
+              ],
+              "categories": [],
+              "roomId": 8466,
+              "room": "H2B Hub Eternals"
+            },
+            "index": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2019-09-25T00:00:00",
+    "rooms": [
+      {
+        "id": 8465,
+        "name": "Ibis Hotel Asgardians",
+        "sessions": [
+          {
+            "id": "129582",
+            "title": "Nitrogen in your (test) pyramid.",
+            "description": "Unit, integration, UI tests are part of the famous test pyramid, different tools were used in order to full fill it, but still today there are lot of issues about how to execute it in a proper manner and how to sync all environments (local, ci, etc) in order to satisfy all the testing criteria, and having a good reports.\r\n\r\nFrom IO 2018 with the announcement of project Nitrogen, Google'd like to \"nitrogenize\" our tests creating a single entry point and solve all issues\r\nwe had in the past. With October release of Robolectric 4.0 and androidx.test 1.0.0, both testing environments are converging on a set of common test APIs. Robolectric now supports the AndroidJUnit4 test runner, ActivityTestRule, and Espresso for interacting with UI components.\r\n\r\nLet's see togheter how to organise different levels of our 'test pyramid', with a focus to the last news/releases in order ot be ready for the Nitrogen release.",
+            "startsAt": "2019-09-25T10:30:00",
+            "endsAt": "2019-09-25T11:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "b8e52efe-7709-4af8-8e97-cb07860b8e24",
+                "name": "Enrico Bruno Del Zotto"
+              },
+              {
+                "id": "aa96d8b4-4927-4fff-babb-fd4d019821e0",
+                "name": "Tamás Márton"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "afd6aac0-0b2c-4d65-86f2-dab76a85771e",
+            "title": "Coffee Break",
+            "description": null,
+            "startsAt": "2019-09-25T11:30:00",
+            "endsAt": "2019-09-25T12:15:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "139858",
+            "title": "Sign here, please!",
+            "description": "An application ID might define your app among all others, but its signature is what proves and confirms its identity and integrity. From working in distributed teams to fending off fraudulent clones of your application, you eventually come to understand the importance of signatures. \r\n\r\nIn this talk we'll take a deep dive into the Android keystore system, certificates and  signatures, and go over key points necessary for any application's long and productive life. Also, we will cover some security tips and tricks that will help ensure your app is safe to use, even if the users are faced with its evil twin. \r\n\r\nAt the end you should walk away with a deeper insight into everyday mechanisms that are often taken for granted, and the impact that they have on your users' security.",
+            "startsAt": "2019-09-25T12:15:00",
+            "endsAt": "2019-09-25T13:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "0351a115-0e0d-4318-97a7-e11570176324",
+                "name": "Ana Baotić"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "139809",
+            "title": "Make Your App Smarter - Workshop/Hands on Session",
+            "description": "Today, most artificial intelligence services have to send your data to the Cloud in order to perform the analysis. With specific chipset capabilities, calculations can be done directly on the phone and this guarantees the privacy protection that a lot of different use cases need.\r\nIn this session, I will show you how to use HiAI: a mobile computing platforms that make the developers able to run artificial intelligence algorithms on device.\r\nThis is a live session where you will be able to try all the development tools needed to unleash all the capabilities of a Neural Processing Unit\r\n \r\nKey takeaways:\r\n - Understanding the advantages of using on-device AI\r\n- Having an overview of our platform for on-device AI\r\n- Realize a full Android app that integrates computer vision capabilities",
+            "startsAt": "2019-09-25T13:15:00",
+            "endsAt": "2019-09-25T14:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "50baef90-a089-4977-8552-11367422054b",
+                "name": "Francesco Romano"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "79f8317c-c66c-49f7-a81e-a1d10b399751",
+            "title": "Lunch",
+            "description": null,
+            "startsAt": "2019-09-25T14:15:00",
+            "endsAt": "2019-09-25T15:15:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "140012",
+            "title": "Improve user engagement with Google Play Store delivery",
+            "description": "Google introduced the Google Play Instant feature few years ago and more recently a new way to package an application with dynamic delivery capabilities. The user can now access instantly to a native application through a simple link without installation and then download only the main features at the installation-time (to delay the download of certain optional features).\r\nDuring the presentation I will introduce this new package format, its benefits, and show you how to use it to deliver your application on the Play Store (even an existing app).\r\nYou will learn how to architecture your application to take advantage of this new bundle format and benefit from dynamic delivery. Finally I will provide additional development guidelines to enable Instant Application without cost.\r\nAt the end of the presentation, you will be able to transform an existing application to an optimized native app.",
+            "startsAt": "2019-09-25T15:15:00",
+            "endsAt": "2019-09-25T16:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "bb018ed9-2e07-44db-b812-b7f7ce7a98f7",
+                "name": "Donovan Fournier"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "136713",
+            "title": "Understanding MLKit offerings in Android & IOS",
+            "description": "ML Kit is the SDK that makes machine learning features more straightforward for the mobile developers to incorporate in their apps. Since ML Kit has been made a core ingredient of Firebase ,its robust ML APIs can be implemented seamlessly in both android & IOS apps like it’s any other feature such as analytics, crashlytics etc.\r\n\r\nThe flexibility provided by ML Kit for mobile developers to use On-device or On-Cloud ML Apis as per the use case is quite significant . In this session we will take deep dive in the different ready to use APIs of ML Kit encapsulating the features of Mobile Vision, Google Cloud Vision API, TensorFlow Lite and Neural Network API and also will discuss how custom models can be hosted seamlessly.We will understand new features such as Language Identification & Smart Reply using NLP . Additionally , we will look into the applications of recently announced Object Detection and Tracking APIs along with sneak peek into AutoML Vision Edge using which custom image classification models can be created as per our requirements .",
+            "startsAt": "2019-09-25T16:15:00",
+            "endsAt": "2019-09-25T17:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "bfe6396b-fca5-4fca-b118-602d124a7076",
+                "name": "Gaurav Bhatnagar"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "f05e3157-ed6f-4ecd-948d-cfb4245b02e6",
+            "title": "Coffee Break",
+            "description": "Enjoy a small break and some networking",
+            "startsAt": "2019-09-25T17:15:00",
+            "endsAt": "2019-09-25T18:00:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          },
+          {
+            "id": "132297",
+            "title": "Using Dagger in a Clean Architecture project",
+            "description": "Clean Architecture and app modularization are often used together to achieve a better code structure and a faster build time. But how can we use Dagger in an app structured in that way? Can we use subcomponents (with or without Dagger Android) or are component dependencies enough?\r\nIn this talk we’ll see how to leverage Dagger to organize the dependencies in a multi-module project with particular attention to testing and decoupling. The examples will be both in a standard layered architecture and in a Clean Architecture where the Dependency Inversion increases the overall structure but can complicate the Dagger code.",
+            "startsAt": "2019-09-25T18:00:00",
+            "endsAt": "2019-09-25T19:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "2e93a5e7-2037-4d7d-a548-7512f9c14960",
+                "name": "Fabio Collini"
+              }
+            ],
+            "categories": [],
+            "roomId": 8465,
+            "room": "Ibis Hotel Asgardians"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 8711,
+        "name": "Ibis Hotel Avengers",
+        "sessions": [
+          {
+            "id": "128847",
+            "title": "Libraries for K/N citizens",
+            "description": "The success of any technology is depending on its ecosystem. We want to see meaningful APIs and effective SDKs, but we also rely on the community ecosystem and its support.\r\n\r\nWhereas K/N is relying on Kotlin as a language, K/N will need the support of libraries that provide with extra functionality. JetBrains is doing a great job in this direction, but this needs to rely as well on the community.\r\n\r\nLearn on this talk what are the current State of the Art libraries for K/N, how to get started with them and apply them in your projects. We will showcase libraries from some of the main actors in the K/N realm (JetBrains, Touchlab), as well as some of the independent agents arising.",
+            "startsAt": "2019-09-25T09:30:00",
+            "endsAt": "2019-09-25T10:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": true,
+            "speakers": [
+              {
+                "id": "2f606e32-997a-4b74-8420-76a47e7d66a3",
+                "name": "Enrique Lopez Mañas"
+              }
+            ],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "135680",
+            "title": "Building Voice-First Android Apps",
+            "description": "Thanks to the latest advancements in Machine Learning, we're now capable of interacting with machines through natural language. The age of voice assistants is here with Alexa, the Google Assistant and others. But, as an Android developer, what can I do on my existing app in relation to conversational features?\r\n\r\nWhen we think about developing features that are voice-forward, we think about existing voice assistants such as Alexa and the Google Assistant. What about the fully-capable computers that we have with us all the time, our smartphones? Some moments on our day to day lives are very well suited for voice interactions: while in a car or cooking for example. Let's not forget that voice interactions are extremely accessible, not only in a physical way (for people with dexterity or motion impediments) but also in a cognitive way (I think we all have a loved one in our lives that really struggles with technology, and people from some emerging countries have very limited access to computers and are not at ease with technology).\r\n\r\nIn this talk, I'll explain what integrations can be done on Android:\r\n- 1st-party solutions such as the SpeechRecognizer and TextToSpeech APIs\r\n- Other Google solutions such as ML Kit, TensorFlow and Dialogflow\r\n- 3rd-party solutions such as Porcupine, Snips, Amazon Lex, Snowboy and PocketSphinx\r\n- Integration with the Google Assistant via App Actions",
+            "startsAt": "2019-09-25T10:30:00",
+            "endsAt": "2019-09-25T11:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "7c888e22-f254-4e04-aa56-1853ab18c000",
+                "name": "Elaine Dias Batista"
+              }
+            ],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "628155a9-cff1-4397-bb7a-59929cc9a1e8",
+            "title": "Coffee Break",
+            "description": "Enjoy a small break and some networking",
+            "startsAt": "2019-09-25T11:30:00",
+            "endsAt": "2019-09-25T12:15:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "137143",
+            "title": "Dependency Injection with Koin",
+            "description": "While Dagger has been the go to library for DI in Android, in this talk we explore Koin (which recently hit 2.0) and see whether it can be a viable alternative for you and how it compares with Dagger.",
+            "startsAt": "2019-09-25T12:15:00",
+            "endsAt": "2019-09-25T13:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "f6e0d145-dcd7-4e80-a8b1-b50ef5f6abfa",
+                "name": "Shashank Mishra"
+              }
+            ],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "134039",
+            "title": "SELECT * FROM SqlDelight JOIN Multiplatform",
+            "description": "For the last couple of years, Room was the preferable solution for work with SQLite. But recently was released a new version of SQLDelight with kotlin multiplatform support, overhauled API and full generated kotlin code, RxJava2 extensions, paging library support and many more. With its feature of live typesafe code generation from SQL queries with the help of Android Studio plugin is hard to compete. So is it still worth considering other solutions?\r\n\r\nIn this session, we will go through the core features of SQLDelight and in the live demo, we will see how SQLDelight works. We will go through the main use cases and will think about future possible use cases of multiplatform application of SQLDelight. You’ll leave this talk with a solid understanding of how SQLDelight works and the confidence to get started.",
+            "startsAt": "2019-09-25T13:15:00",
+            "endsAt": "2019-09-25T14:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "0500b7f7-51c4-4997-ba87-8b50a6a44ab4",
+                "name": "Andrii Rakhimov"
+              }
+            ],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "b70bfae6-13a3-40b3-ae5c-d0d5f4f17196",
+            "title": "Lunch",
+            "description": null,
+            "startsAt": "2019-09-25T14:15:00",
+            "endsAt": "2019-09-25T15:15:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "136574",
+            "title": "Coroutines vs. ReactiveX: Handling errors",
+            "description": "Whether you’re coming from the Android world or not, you’ve probably heard about Kotlin (the programming language) and its asynchronous programming concept called Coroutines. It’s a neat concept that helps you create execution blocks similar to light-weight threads, while at the same time allowing you to write your asynchronous code in a synchronous fashion.\r\n\r\nOn the other hand, many of us got really (really) used to Reactive Extensions in many languages, and we prefer to go down this road. With ReactiveX, you can chain your asynchronous blocks in future-like structures, and easily control threading around them.\r\n\r\nWell, you know how it usually goes - you read about something (aha! what is this coroutines thing)… maybe you see a couple of talks on the topic, maybe you get interested. After you try it out and decide to use it in a real project, you start typing your code… and boom! Your program crashes. You then go to StackOverflow to check for answers to your problem, and surprise: you’re not handling errors properly. You copy-paste the solution without any edits or tests and you’re ready for release.\r\n\r\nHopefully this is not you. You want to check everything before using a new language or library, you want to fully understand the consequences of switching over to a different solution from the one you currently have. There are some quirks in every approach, sure, but do you know all of the corner cases?\r\n\r\nThat’s why we need to have this talk. Let’s go together through the most interesting examples of how we can get (and handle) errors with ReactiveX and Coroutines.",
+            "startsAt": "2019-09-25T15:15:00",
+            "endsAt": "2019-09-25T16:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "afe1bd2c-4267-4845-b169-1f1fce157f0b",
+                "name": "Milos Marinkovic"
+              }
+            ],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "144929",
+            "title": "Personalize for each user and device",
+            "description": "What sets apart a good action is personalizing the experience for each user, adapting to their needs and offer the best experience for whichever device the user is currently using. Customizing the responses, storing information and manipulating the medium of the displayed response, can all be achieved by learning how to leverage the AoG SDK. Together we will learn the differences between the DialogFlow SDK and the AoG SDK, how to perform all the above and some best practices that will help you build your action faster and better.",
+            "startsAt": "2019-09-25T16:15:00",
+            "endsAt": "2019-09-25T17:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "a0586acc-ac50-4560-ac22-8d0d50229245",
+                "name": "Eliza Camber"
+              }
+            ],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "0f5405e8-087d-44b4-94dd-d7239c87e115",
+            "title": "Coffee Break",
+            "description": null,
+            "startsAt": "2019-09-25T17:15:00",
+            "endsAt": "2019-09-25T18:00:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "128872",
+            "title": "My love-hate relationship with Android Studio",
+            "description": "Android Studio is the tool of the trade hands down. When it comes to Android (app/library/IOT) development, the first thing that comes to mind is to install Android Studio and get going from there. However, it has not been a smooth road as expected for me. In my own experience, I talk about my love-hate relationship with Android Studio. I try to cover what Android Studio gets right and what it doesn't. The talk focuses on how to be embrace performance when Android Studio is the bottleneck in the workflow (slow build times and reduced productivity), how switching to a terminal and various tools that exist in the ecosystem can give Android developers the much-needed speed boost and in-depth view in their development workflow.  By the end of this talk, you would have embraces a workflow that allows for increased productivity and faster development.",
+            "startsAt": "2019-09-25T18:00:00",
+            "endsAt": "2019-09-25T19:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "3e5fddb1-d6ae-42af-8f79-a3c0b61b0892",
+                "name": "Nishant Srivastava"
+              }
+            ],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "3de39d03-b28f-47a0-a109-7e0907a00295",
+            "title": "Chet Haase",
+            "description": "Keynote …expect the unexpected ;)",
+            "startsAt": "2019-09-25T19:00:00",
+            "endsAt": "2019-09-25T20:00:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          },
+          {
+            "id": "632581cf-be0d-4aca-902b-3ed14a798b69",
+            "title": "Goodbye Droidcon!",
+            "description": "All the good things come to an end! goodbye for now! we will welcome you again at DroidconGR20!",
+            "startsAt": "2019-09-25T20:00:00",
+            "endsAt": "2019-09-25T20:30:00",
+            "isServiceSession": true,
+            "isPlenumSession": true,
+            "speakers": [],
+            "categories": [],
+            "roomId": 8711,
+            "room": "Ibis Hotel Avengers"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      }
+    ],
+    "timeSlots": [
+      {
+        "slotStart": "09:30:00",
+        "rooms": [
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "128847",
+              "title": "Libraries for K/N citizens",
+              "description": "The success of any technology is depending on its ecosystem. We want to see meaningful APIs and effective SDKs, but we also rely on the community ecosystem and its support.\r\n\r\nWhereas K/N is relying on Kotlin as a language, K/N will need the support of libraries that provide with extra functionality. JetBrains is doing a great job in this direction, but this needs to rely as well on the community.\r\n\r\nLearn on this talk what are the current State of the Art libraries for K/N, how to get started with them and apply them in your projects. We will showcase libraries from some of the main actors in the K/N realm (JetBrains, Touchlab), as well as some of the independent agents arising.",
+              "startsAt": "2019-09-25T09:30:00",
+              "endsAt": "2019-09-25T10:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": true,
+              "speakers": [
+                {
+                  "id": "2f606e32-997a-4b74-8420-76a47e7d66a3",
+                  "name": "Enrique Lopez Mañas"
+                }
+              ],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "10:30:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "129582",
+              "title": "Nitrogen in your (test) pyramid.",
+              "description": "Unit, integration, UI tests are part of the famous test pyramid, different tools were used in order to full fill it, but still today there are lot of issues about how to execute it in a proper manner and how to sync all environments (local, ci, etc) in order to satisfy all the testing criteria, and having a good reports.\r\n\r\nFrom IO 2018 with the announcement of project Nitrogen, Google'd like to \"nitrogenize\" our tests creating a single entry point and solve all issues\r\nwe had in the past. With October release of Robolectric 4.0 and androidx.test 1.0.0, both testing environments are converging on a set of common test APIs. Robolectric now supports the AndroidJUnit4 test runner, ActivityTestRule, and Espresso for interacting with UI components.\r\n\r\nLet's see togheter how to organise different levels of our 'test pyramid', with a focus to the last news/releases in order ot be ready for the Nitrogen release.",
+              "startsAt": "2019-09-25T10:30:00",
+              "endsAt": "2019-09-25T11:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "b8e52efe-7709-4af8-8e97-cb07860b8e24",
+                  "name": "Enrico Bruno Del Zotto"
+                },
+                {
+                  "id": "aa96d8b4-4927-4fff-babb-fd4d019821e0",
+                  "name": "Tamás Márton"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "135680",
+              "title": "Building Voice-First Android Apps",
+              "description": "Thanks to the latest advancements in Machine Learning, we're now capable of interacting with machines through natural language. The age of voice assistants is here with Alexa, the Google Assistant and others. But, as an Android developer, what can I do on my existing app in relation to conversational features?\r\n\r\nWhen we think about developing features that are voice-forward, we think about existing voice assistants such as Alexa and the Google Assistant. What about the fully-capable computers that we have with us all the time, our smartphones? Some moments on our day to day lives are very well suited for voice interactions: while in a car or cooking for example. Let's not forget that voice interactions are extremely accessible, not only in a physical way (for people with dexterity or motion impediments) but also in a cognitive way (I think we all have a loved one in our lives that really struggles with technology, and people from some emerging countries have very limited access to computers and are not at ease with technology).\r\n\r\nIn this talk, I'll explain what integrations can be done on Android:\r\n- 1st-party solutions such as the SpeechRecognizer and TextToSpeech APIs\r\n- Other Google solutions such as ML Kit, TensorFlow and Dialogflow\r\n- 3rd-party solutions such as Porcupine, Snips, Amazon Lex, Snowboy and PocketSphinx\r\n- Integration with the Google Assistant via App Actions",
+              "startsAt": "2019-09-25T10:30:00",
+              "endsAt": "2019-09-25T11:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "7c888e22-f254-4e04-aa56-1853ab18c000",
+                  "name": "Elaine Dias Batista"
+                }
+              ],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "11:30:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "afd6aac0-0b2c-4d65-86f2-dab76a85771e",
+              "title": "Coffee Break",
+              "description": null,
+              "startsAt": "2019-09-25T11:30:00",
+              "endsAt": "2019-09-25T12:15:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "628155a9-cff1-4397-bb7a-59929cc9a1e8",
+              "title": "Coffee Break",
+              "description": "Enjoy a small break and some networking",
+              "startsAt": "2019-09-25T11:30:00",
+              "endsAt": "2019-09-25T12:15:00",
+              "isServiceSession": true,
+              "isPlenumSession": true,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "12:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "139858",
+              "title": "Sign here, please!",
+              "description": "An application ID might define your app among all others, but its signature is what proves and confirms its identity and integrity. From working in distributed teams to fending off fraudulent clones of your application, you eventually come to understand the importance of signatures. \r\n\r\nIn this talk we'll take a deep dive into the Android keystore system, certificates and  signatures, and go over key points necessary for any application's long and productive life. Also, we will cover some security tips and tricks that will help ensure your app is safe to use, even if the users are faced with its evil twin. \r\n\r\nAt the end you should walk away with a deeper insight into everyday mechanisms that are often taken for granted, and the impact that they have on your users' security.",
+              "startsAt": "2019-09-25T12:15:00",
+              "endsAt": "2019-09-25T13:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "0351a115-0e0d-4318-97a7-e11570176324",
+                  "name": "Ana Baotić"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "137143",
+              "title": "Dependency Injection with Koin",
+              "description": "While Dagger has been the go to library for DI in Android, in this talk we explore Koin (which recently hit 2.0) and see whether it can be a viable alternative for you and how it compares with Dagger.",
+              "startsAt": "2019-09-25T12:15:00",
+              "endsAt": "2019-09-25T13:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "f6e0d145-dcd7-4e80-a8b1-b50ef5f6abfa",
+                  "name": "Shashank Mishra"
+                }
+              ],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "13:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "139809",
+              "title": "Make Your App Smarter - Workshop/Hands on Session",
+              "description": "Today, most artificial intelligence services have to send your data to the Cloud in order to perform the analysis. With specific chipset capabilities, calculations can be done directly on the phone and this guarantees the privacy protection that a lot of different use cases need.\r\nIn this session, I will show you how to use HiAI: a mobile computing platforms that make the developers able to run artificial intelligence algorithms on device.\r\nThis is a live session where you will be able to try all the development tools needed to unleash all the capabilities of a Neural Processing Unit\r\n \r\nKey takeaways:\r\n - Understanding the advantages of using on-device AI\r\n- Having an overview of our platform for on-device AI\r\n- Realize a full Android app that integrates computer vision capabilities",
+              "startsAt": "2019-09-25T13:15:00",
+              "endsAt": "2019-09-25T14:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "50baef90-a089-4977-8552-11367422054b",
+                  "name": "Francesco Romano"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "134039",
+              "title": "SELECT * FROM SqlDelight JOIN Multiplatform",
+              "description": "For the last couple of years, Room was the preferable solution for work with SQLite. But recently was released a new version of SQLDelight with kotlin multiplatform support, overhauled API and full generated kotlin code, RxJava2 extensions, paging library support and many more. With its feature of live typesafe code generation from SQL queries with the help of Android Studio plugin is hard to compete. So is it still worth considering other solutions?\r\n\r\nIn this session, we will go through the core features of SQLDelight and in the live demo, we will see how SQLDelight works. We will go through the main use cases and will think about future possible use cases of multiplatform application of SQLDelight. You’ll leave this talk with a solid understanding of how SQLDelight works and the confidence to get started.",
+              "startsAt": "2019-09-25T13:15:00",
+              "endsAt": "2019-09-25T14:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "0500b7f7-51c4-4997-ba87-8b50a6a44ab4",
+                  "name": "Andrii Rakhimov"
+                }
+              ],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "14:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "79f8317c-c66c-49f7-a81e-a1d10b399751",
+              "title": "Lunch",
+              "description": null,
+              "startsAt": "2019-09-25T14:15:00",
+              "endsAt": "2019-09-25T15:15:00",
+              "isServiceSession": true,
+              "isPlenumSession": true,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "b70bfae6-13a3-40b3-ae5c-d0d5f4f17196",
+              "title": "Lunch",
+              "description": null,
+              "startsAt": "2019-09-25T14:15:00",
+              "endsAt": "2019-09-25T15:15:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "15:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "140012",
+              "title": "Improve user engagement with Google Play Store delivery",
+              "description": "Google introduced the Google Play Instant feature few years ago and more recently a new way to package an application with dynamic delivery capabilities. The user can now access instantly to a native application through a simple link without installation and then download only the main features at the installation-time (to delay the download of certain optional features).\r\nDuring the presentation I will introduce this new package format, its benefits, and show you how to use it to deliver your application on the Play Store (even an existing app).\r\nYou will learn how to architecture your application to take advantage of this new bundle format and benefit from dynamic delivery. Finally I will provide additional development guidelines to enable Instant Application without cost.\r\nAt the end of the presentation, you will be able to transform an existing application to an optimized native app.",
+              "startsAt": "2019-09-25T15:15:00",
+              "endsAt": "2019-09-25T16:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "bb018ed9-2e07-44db-b812-b7f7ce7a98f7",
+                  "name": "Donovan Fournier"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "136574",
+              "title": "Coroutines vs. ReactiveX: Handling errors",
+              "description": "Whether you’re coming from the Android world or not, you’ve probably heard about Kotlin (the programming language) and its asynchronous programming concept called Coroutines. It’s a neat concept that helps you create execution blocks similar to light-weight threads, while at the same time allowing you to write your asynchronous code in a synchronous fashion.\r\n\r\nOn the other hand, many of us got really (really) used to Reactive Extensions in many languages, and we prefer to go down this road. With ReactiveX, you can chain your asynchronous blocks in future-like structures, and easily control threading around them.\r\n\r\nWell, you know how it usually goes - you read about something (aha! what is this coroutines thing)… maybe you see a couple of talks on the topic, maybe you get interested. After you try it out and decide to use it in a real project, you start typing your code… and boom! Your program crashes. You then go to StackOverflow to check for answers to your problem, and surprise: you’re not handling errors properly. You copy-paste the solution without any edits or tests and you’re ready for release.\r\n\r\nHopefully this is not you. You want to check everything before using a new language or library, you want to fully understand the consequences of switching over to a different solution from the one you currently have. There are some quirks in every approach, sure, but do you know all of the corner cases?\r\n\r\nThat’s why we need to have this talk. Let’s go together through the most interesting examples of how we can get (and handle) errors with ReactiveX and Coroutines.",
+              "startsAt": "2019-09-25T15:15:00",
+              "endsAt": "2019-09-25T16:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "afe1bd2c-4267-4845-b169-1f1fce157f0b",
+                  "name": "Milos Marinkovic"
+                }
+              ],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "16:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "136713",
+              "title": "Understanding MLKit offerings in Android & IOS",
+              "description": "ML Kit is the SDK that makes machine learning features more straightforward for the mobile developers to incorporate in their apps. Since ML Kit has been made a core ingredient of Firebase ,its robust ML APIs can be implemented seamlessly in both android & IOS apps like it’s any other feature such as analytics, crashlytics etc.\r\n\r\nThe flexibility provided by ML Kit for mobile developers to use On-device or On-Cloud ML Apis as per the use case is quite significant . In this session we will take deep dive in the different ready to use APIs of ML Kit encapsulating the features of Mobile Vision, Google Cloud Vision API, TensorFlow Lite and Neural Network API and also will discuss how custom models can be hosted seamlessly.We will understand new features such as Language Identification & Smart Reply using NLP . Additionally , we will look into the applications of recently announced Object Detection and Tracking APIs along with sneak peek into AutoML Vision Edge using which custom image classification models can be created as per our requirements .",
+              "startsAt": "2019-09-25T16:15:00",
+              "endsAt": "2019-09-25T17:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "bfe6396b-fca5-4fca-b118-602d124a7076",
+                  "name": "Gaurav Bhatnagar"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "144929",
+              "title": "Personalize for each user and device",
+              "description": "What sets apart a good action is personalizing the experience for each user, adapting to their needs and offer the best experience for whichever device the user is currently using. Customizing the responses, storing information and manipulating the medium of the displayed response, can all be achieved by learning how to leverage the AoG SDK. Together we will learn the differences between the DialogFlow SDK and the AoG SDK, how to perform all the above and some best practices that will help you build your action faster and better.",
+              "startsAt": "2019-09-25T16:15:00",
+              "endsAt": "2019-09-25T17:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "a0586acc-ac50-4560-ac22-8d0d50229245",
+                  "name": "Eliza Camber"
+                }
+              ],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "17:15:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "f05e3157-ed6f-4ecd-948d-cfb4245b02e6",
+              "title": "Coffee Break",
+              "description": "Enjoy a small break and some networking",
+              "startsAt": "2019-09-25T17:15:00",
+              "endsAt": "2019-09-25T18:00:00",
+              "isServiceSession": true,
+              "isPlenumSession": true,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "0f5405e8-087d-44b4-94dd-d7239c87e115",
+              "title": "Coffee Break",
+              "description": null,
+              "startsAt": "2019-09-25T17:15:00",
+              "endsAt": "2019-09-25T18:00:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "18:00:00",
+        "rooms": [
+          {
+            "id": 8465,
+            "name": "Ibis Hotel Asgardians",
+            "session": {
+              "id": "132297",
+              "title": "Using Dagger in a Clean Architecture project",
+              "description": "Clean Architecture and app modularization are often used together to achieve a better code structure and a faster build time. But how can we use Dagger in an app structured in that way? Can we use subcomponents (with or without Dagger Android) or are component dependencies enough?\r\nIn this talk we’ll see how to leverage Dagger to organize the dependencies in a multi-module project with particular attention to testing and decoupling. The examples will be both in a standard layered architecture and in a Clean Architecture where the Dependency Inversion increases the overall structure but can complicate the Dagger code.",
+              "startsAt": "2019-09-25T18:00:00",
+              "endsAt": "2019-09-25T19:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "2e93a5e7-2037-4d7d-a548-7512f9c14960",
+                  "name": "Fabio Collini"
+                }
+              ],
+              "categories": [],
+              "roomId": 8465,
+              "room": "Ibis Hotel Asgardians"
+            },
+            "index": 0
+          },
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "128872",
+              "title": "My love-hate relationship with Android Studio",
+              "description": "Android Studio is the tool of the trade hands down. When it comes to Android (app/library/IOT) development, the first thing that comes to mind is to install Android Studio and get going from there. However, it has not been a smooth road as expected for me. In my own experience, I talk about my love-hate relationship with Android Studio. I try to cover what Android Studio gets right and what it doesn't. The talk focuses on how to be embrace performance when Android Studio is the bottleneck in the workflow (slow build times and reduced productivity), how switching to a terminal and various tools that exist in the ecosystem can give Android developers the much-needed speed boost and in-depth view in their development workflow.  By the end of this talk, you would have embraces a workflow that allows for increased productivity and faster development.",
+              "startsAt": "2019-09-25T18:00:00",
+              "endsAt": "2019-09-25T19:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "3e5fddb1-d6ae-42af-8f79-a3c0b61b0892",
+                  "name": "Nishant Srivastava"
+                }
+              ],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "19:00:00",
+        "rooms": [
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "3de39d03-b28f-47a0-a109-7e0907a00295",
+              "title": "Chet Haase",
+              "description": "Keynote …expect the unexpected ;)",
+              "startsAt": "2019-09-25T19:00:00",
+              "endsAt": "2019-09-25T20:00:00",
+              "isServiceSession": true,
+              "isPlenumSession": true,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      },
+      {
+        "slotStart": "20:00:00",
+        "rooms": [
+          {
+            "id": 8711,
+            "name": "Ibis Hotel Avengers",
+            "session": {
+              "id": "632581cf-be0d-4aca-902b-3ed14a798b69",
+              "title": "Goodbye Droidcon!",
+              "description": "All the good things come to an end! goodbye for now! we will welcome you again at DroidconGR20!",
+              "startsAt": "2019-09-25T20:00:00",
+              "endsAt": "2019-09-25T20:30:00",
+              "isServiceSession": true,
+              "isPlenumSession": true,
+              "speakers": [],
+              "categories": [],
+              "roomId": 8711,
+              "room": "Ibis Hotel Avengers"
+            },
+            "index": 1
+          }
+        ]
+      }
+    ]
+  }
+]
